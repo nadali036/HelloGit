@@ -6,6 +6,6 @@ public class HelloGit {
 		System.out.println("=== start ===");
 		System.out.println("Hello Git");
 		Test.printText();
-		System.out.println("=== END ===");
+		System.out.println("=== end ===");
 	}
 }
