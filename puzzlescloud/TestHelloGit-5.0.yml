@@ -1,0 +1,35 @@
+chapters:
+- chapters: []
+  name: Hello
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters: []
+  name: README
+  path: README.md
+  type: MARKDOWN_CHAPTER
+- chapters:
+  - chapters: []
+    name: h1 Heading 8-)
+    path: Test.md
+    type: MARKDOWN_CHAPTER
+  name: ''
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: Git Hello
+  doc-company: ''
+  doc-company-url: ''
+  doc-version: '1.0'
+  ' reference-doc-title ': ''
+  doc-release-date: 11.10.2021
+  doc-change-description: Test
+  File Name: TestHelloGit.docx
+  doc-author-name: Nada
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
